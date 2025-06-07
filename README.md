@@ -1,2 +1,1 @@
-# MTs-N1-Cilacap-username-generator-not-precise-
-So I made this algorithm to generate my school's username
+not to offend anyone,anything I just want to create something useful(this kinda useless tho)
