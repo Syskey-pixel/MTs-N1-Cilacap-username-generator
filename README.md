@@ -1,4 +1,5 @@
-not to offend anyone,anything I just want to create something useful(this kinda useless tho)
-the source code is genuinely bad
-the source code is really messy
-it didnt precise
+1.not to offend anyone,anything I just want to create something useful(this kinda useless tho).
+
+2.the source code is genuinely bad.
+3.the source code is really messy.
+4.it didnt precise.
